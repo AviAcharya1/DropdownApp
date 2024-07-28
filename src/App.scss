@@ -1,0 +1,49 @@
+/* src/App.scss */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  
+  .dropdown-container {
+    width: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 90%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #413f3f;
+  }
+  
+  th, td {
+    padding: 100px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
